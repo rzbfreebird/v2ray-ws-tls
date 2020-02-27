@@ -47,8 +47,8 @@ cd /usr/src && ./tcp.sh
 * 1.下载v2ray客户端
    v2ray各平台客户端：https://www.v2ray.com/awesome/tools.html
 * 2.将参数对应填写到客户端
-   这里大概说明一下参数怎么填写：
-   地址：你的域名，例如google.com
+** 这里大概说明一下参数怎么填写：
+** 地址：你的域名，例如google.com
    端口：443
    用户ID：就是一长串uuid
    加密方式：aes-128-gcm
